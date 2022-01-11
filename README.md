@@ -25,7 +25,7 @@
 
 ![Demo](/public/demo.png)
 
-A web made with ReactJS and Tailwind CSS, deployed with Firebase.
+A web made with ReactJS (Typescript) and Tailwind CSS, deployed with Firebase.
 This is a college assignment project for the course `Teori Bahasa Automata` University of Riau.
 
 ### Live Demo
@@ -34,6 +34,7 @@ This is a college assignment project for the course `Teori Bahasa Automata` Univ
 
 ### Built With
 
+- [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Firebase](https://firebase.google.com/)
